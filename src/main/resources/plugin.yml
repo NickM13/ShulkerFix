@@ -1,0 +1,8 @@
+author: NickM13
+authors: [NickM13]
+description: Shulker Box fix for 1.16.5
+main: com.nickm13.shulker.ShulkerFix
+name: ShulkerFix
+url: http://www.nickvoxel.com/
+version: 1.0
+api-version: 1.13
